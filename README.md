@@ -1,5 +1,6 @@
 # STM32f411e_loading_lights
 
+Two projects made for the STM32f411e-discovery board.
 Made in stm32cubeIDE. You also need some cables, wires and extra gadgets then connet them accordingly for this code to work correctly, this is only a showcase of a couple of projects.
 
 
