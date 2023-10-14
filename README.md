@@ -1,6 +1,6 @@
 # STM32f411e_loading_lights
 
-Made in stm32cubeIDE, this was a project to make the board flas colors and move like a loading buffer. Also if we push the blue button on our stm32f411e-discovery board, the loading bar will start moving faster. we can push it 4 times after which it will return to its base speed. 
+Made in stm32cubeIDE, this was a project to make the board flash certain colors at certain times with pulse modulation. 
 you also need some cables wires and nextra gadgets and connet them in a certain way for this code to work correctly, this is only a showcase of a project
 
 Picture of the board:
